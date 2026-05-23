@@ -1,0 +1,53 @@
+﻿{
+    "$schema":  "../project.meta.schema.json",
+    "schemaVersion":  1,
+    "name":  "rl_2425_1",
+    "title":  "Rl 2425 1",
+    "kind":  "git-repository",
+    "status":  "unknown",
+    "category":  "learning-lab",
+    "description":  "A high-quality learning lab project named Rl 2425 1, built using various technologies and focused on learning lab concepts with rich metadata.",
+    "tags":  [
+                 "learning-lab"
+             ],
+    "priority":  "unset",
+    "owner":  "",
+    "paths":  {
+                  "relative":  "rl_2425_1",
+                  "absolute":  "F:\\learnbydoingwithsteven\\rl_2425_1"
+              },
+    "repo":  {
+                 "hasGit":  true,
+                 "remote":  "https://github.com/learnbydoingwithsteven/rl_2425_1.git"
+             },
+    "stack":  [
+
+              ],
+    "entrypoints":  {
+                        "readme":  "README.md"
+                    },
+    "signals":  {
+                    "hasReadme":  true,
+                    "hasPackageJson":  false,
+                    "hasIndexHtml":  false,
+                    "hasViteConfig":  false,
+                    "hasNextConfig":  false,
+                    "hasPython":  false,
+                    "hasNotebooks":  false
+                },
+    "children":  {
+                     "count":  1,
+                     "immediateProjectSignalCount":  1
+                 },
+    "activity":  {
+                     "lastModifiedLocal":  "2026-05-23T12:54:00",
+                     "inferredActivity":  "hot"
+                 },
+    "notes":  "",
+    "metadata":  {
+                     "generated":  true,
+                     "generatedAt":  "2026-05-23T10:55:25Z",
+                     "generatedBy":  "tools/update_project_metadata.ps1",
+                     "confidence":  "inferred"
+                 }
+}
